@@ -1,0 +1,15 @@
+D:\Users\GoldenLap\Desktop\school\C#\GoldenSpoty\GoldenSpoty\bin\Debug\net6.0\GoldenSpoty.exe
+D:\Users\GoldenLap\Desktop\school\C#\GoldenSpoty\GoldenSpoty\bin\Debug\net6.0\GoldenSpoty.deps.json
+D:\Users\GoldenLap\Desktop\school\C#\GoldenSpoty\GoldenSpoty\bin\Debug\net6.0\GoldenSpoty.runtimeconfig.json
+D:\Users\GoldenLap\Desktop\school\C#\GoldenSpoty\GoldenSpoty\bin\Debug\net6.0\GoldenSpoty.dll
+D:\Users\GoldenLap\Desktop\school\C#\GoldenSpoty\GoldenSpoty\bin\Debug\net6.0\GoldenSpoty.pdb
+D:\Users\GoldenLap\Desktop\school\C#\GoldenSpoty\GoldenSpoty\obj\Debug\net6.0\GoldenSpoty.csproj.AssemblyReference.cache
+D:\Users\GoldenLap\Desktop\school\C#\GoldenSpoty\GoldenSpoty\obj\Debug\net6.0\GoldenSpoty.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\GoldenLap\Desktop\school\C#\GoldenSpoty\GoldenSpoty\obj\Debug\net6.0\GoldenSpoty.AssemblyInfoInputs.cache
+D:\Users\GoldenLap\Desktop\school\C#\GoldenSpoty\GoldenSpoty\obj\Debug\net6.0\GoldenSpoty.AssemblyInfo.cs
+D:\Users\GoldenLap\Desktop\school\C#\GoldenSpoty\GoldenSpoty\obj\Debug\net6.0\GoldenSpoty.csproj.CoreCompileInputs.cache
+D:\Users\GoldenLap\Desktop\school\C#\GoldenSpoty\GoldenSpoty\obj\Debug\net6.0\GoldenSpoty.dll
+D:\Users\GoldenLap\Desktop\school\C#\GoldenSpoty\GoldenSpoty\obj\Debug\net6.0\refint\GoldenSpoty.dll
+D:\Users\GoldenLap\Desktop\school\C#\GoldenSpoty\GoldenSpoty\obj\Debug\net6.0\GoldenSpoty.pdb
+D:\Users\GoldenLap\Desktop\school\C#\GoldenSpoty\GoldenSpoty\obj\Debug\net6.0\GoldenSpoty.genruntimeconfig.cache
+D:\Users\GoldenLap\Desktop\school\C#\GoldenSpoty\GoldenSpoty\obj\Debug\net6.0\ref\GoldenSpoty.dll
